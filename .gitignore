@@ -1,0 +1,8 @@
+/venv/
+Chess/__pycache__/
+Chess/models/old_models/
+Chess/datasets/
+Chess/datasets/Chess-Dataset.txt
+Chess/datasets/ml-dataset.npz
+Chess/books/endgame/
+Chess/books/Ranomi.bin

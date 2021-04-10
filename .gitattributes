@@ -1,0 +1,2 @@
+Chess/datasets/** filter=lfs diff=lfs merge=lfs -text
+Chess/books/Ranomi.bin filter=lfs diff=lfs merge=lfs -text
